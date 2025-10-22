@@ -1,0 +1,65 @@
+
+
+Category,Question,Option1,Option2,Option3,Option4,Answer
+Core Java,Which statement is true about Java?,Java is platform-dependent,Java is procedural,Java is not object-oriented,Java is platform-independent,D
+Core Java,What is the extension of Java code files?,.js,.class,.java,.txt,C
+Core Java,Who invented Java programming?,Bjarne Stroustrup,James Gosling,Dennis Ritchie,Guido van Rossum,B
+Core Java,Which one is not a Java feature?,Object-Oriented,Use of pointers,Robust,Portable,B
+Core Java,Which method is entry point of Java?,start(),main(),execute(),run(),B
+Core Java,Which keyword is used for inheritance?,implement,extends,inherits,super,B
+Core Java,Which access modifier allows access in same package?,private,default,protected,public,B
+Core Java,Which one is not primitive type?,int,char,String,boolean,C
+Core Java,Which keyword is used to create objects?,this,super,new,class,C
+Core Java,What is default value of boolean?,true,false,0,null,B
+Core Java,Which operator is used for comparison?,=,==,!=,&&,B
+Core Java,Which collection stores unique elements?,List,Set,Map,Queue,B
+Core Java,Which statement about Java is false?,Java is platform-independent,Java supports pointers,Java is object-oriented,Java uses garbage collection,B
+Core Java,Which package contains ArrayList class?,java.io,java.util,java.lang,java.net,B
+Core Java,Which exception is checked exception?,NullPointerException,IOException,ArithmeticException,ArrayIndexOutOfBoundsException,B
+Core Java,Which loop executes at least once?,for,while,do-while,foreach,C
+Core Java,Which keyword prevents method overriding?,final,static,abstract,protected,A
+Core Java,Which is not a valid identifier?,myVar,_myVar,2ndVar,$myVar,C
+Core Java,Which method converts String to int?,parseInt(),toInt(),convert(),stringToInt(),A
+Core Java,Which class is superclass of all classes?,Object,String,Class,Exception,A
+
+Advanced Java,Which keyword prevents inheritance?,abstract,static,final,super,C
+Advanced Java,Which interface does HashMap implement?,List,Set,Map,Collection,C
+Advanced Java,Which Java version introduced Lambda?,6,7,8,5,C
+Advanced Java,Which JDBC driver is pure Java?,Type1,Type2,Type3,Type4,D
+Advanced Java,Which method all threads must have?,start(),run(),execute(),sleep(),B
+Advanced Java,Which keyword ensures thread-safety?,volatile,synchronized,static,constant,B
+Advanced Java,Which method retrieves String from ResultSet?,getValue(),getString(),fetch(),readString(),B
+Advanced Java,What is default value of Object reference?,0,null,undefined,empty,B
+Advanced Java,Which stream class serializes objects?,DataInputStream,ObjectOutputStream,FileInputStream,ByteStream,B
+Advanced Java,What does 'transient' do?,Serialize,Prevent serialization,Make static,Make final,B
+Advanced Java,Which is checked exception?,IOException,NullPointerException,RuntimeException,ArithmeticException,A
+Advanced Java,Which class is superclass of all exceptions?,Throwable,Exception,RuntimeException,Error,A
+Advanced Java,Which method in Object class compares equality?,equals(),compareTo(),match(),equalTo(),A
+Advanced Java,Which package for JDBC classes?,java.util,java.io,java.sql,java.net,C
+Advanced Java,Which method starts thread execution?,start(),run(),execute(),sleep(),A
+Advanced Java,Which annotation for overriding method?,@Override,@Overload,@Suppress,@Final,A
+Advanced Java,Which collection maintains insertion order?,HashMap,TreeMap,LinkedHashMap,HashSet,C
+Advanced Java,Which method removes element from List?,remove(),delete(),erase(),pop(),A
+Advanced Java,Which interface for key-value pair?,List,Map,Set,Queue,B
+Advanced Java,Which keyword prevents subclassing?,final,static,abstract,protected,A
+
+Aptitude,If cost price=200, selling=250, profit%?,20%,22%,25%,30%,C
+Aptitude,Train 60km/hr crosses pole in 9 sec, length?,120m,150m,180m,200m,C
+Aptitude,Find missing: 2,6,12,20,?,26,30,32,36,B
+Aptitude,A=10days, B=15days together?,5,6,8,9,B
+Aptitude,Average of first 10 natural numbers?,4,5,5.5,6,C
+Aptitude,5x=20, x+10=?,12,14,15,20,B
+Aptitude,Angle between hands at 3:15?,0°,7.5°,15°,30°,B
+Aptitude,Perimeter square=24cm, area?,24,30,36,40,C
+Aptitude,Sell 15% loss, if Rs255 more then 10% gain, cost?,850,900,1000,1050,C
+Aptitude,Speed=72km/h, time=25min, distance?,25km,30km,40km,45km,B
+Aptitude,Solve: 12+5*3-6/2=?,24,27,25,26,B
+Aptitude,5,10,20,40,?,60,70,80,90,C
+Aptitude,Find x: 2x+5=15,5,7,10,15,A
+Aptitude,Simple interest for 1000, rate 5%, 2yrs?,100,150,200,250,C
+Aptitude,If 3/4=0.75, 7/8=?,0.875,0.85,0.88,0.87,A
+Aptitude,Square root of 144?,10,12,14,16,B
+Aptitude,LCM of 12 and 15?,30,45,60,90,C
+Aptitude,HCF of 36 and 48?,6,12,18,24,B
+Aptitude,Percentage of 50 in 200?,20%,25%,30%,40%,B
+Aptitude,Find simple interest of 5000 at 10% for 2yrs?,1000,1500,2000,2500,A
